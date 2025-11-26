@@ -4,9 +4,20 @@ html {
     background-color: rgb(81, 114, 114);
 }
 
-.chicken {
+.chicken-tenders {
     height: auto;
     width: 650px;
+}
+
+.grilled-chicken {
+    height: auto;
+    width: 612px;
+}
+
+.chicken-parm {
+    height: auto;
+    width: 712px;
+    margin-top: 150px;
 }
 
 img {
