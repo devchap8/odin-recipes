@@ -23,6 +23,13 @@ h2, .recipes {
 
 img.dog {
     margin-right: 50px;
+    width: 612px;
+    height: 408px;
+}
+
+img.chef {
+    width: 408px;
+    height: 408px;
 }
 
 .imgs, .original {
