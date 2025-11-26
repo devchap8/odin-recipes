@@ -1,0 +1,45 @@
+html {
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(81, 114, 114);
+}
+
+.chicken {
+    height: auto;
+    width: 650px;
+}
+
+img {
+    float: right;
+    margin-right: 100px;
+}
+
+.links {
+    text-align: right;
+}
+
+.link-top {
+    margin-right: 10px;
+}
+
+.link-bottom {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline 3px;
+}
+
+h2 {
+    font-size: 27px;
+}
+
+h2, ul, ol {
+    margin-left: 30px;
+}
+
+ul, ol {
+    font-size: 18px;
+}
